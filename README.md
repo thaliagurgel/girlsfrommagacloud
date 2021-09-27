@@ -17,6 +17,7 @@ Instalar DJango no ambiente virtual
 Suba as alterações iniciais remotamente
 
 Rode o server: python3 manage.py runserver
+
 O projeto estará rodando no http://localhost:8000/
 
 Crie o layout da aplicação
