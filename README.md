@@ -11,7 +11,7 @@ Para isso, crie o ambiente virtual:
 python -m venv ambiente_virtual
 
 Ative-o toda vez que desligar a máquina: 
-# Em windows
+
 ambiente_virtual\Scripts\activate    
 ambiente_virtual\Scripts\activate.bat
 
